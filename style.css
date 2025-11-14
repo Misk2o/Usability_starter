@@ -6,10 +6,10 @@
   box-sizing: border-box;
 }
 :root {
-  --primary-text-color: #183b56;
+  --primary-text-color: #29d167;
   --secondary-text-color: #577592;
-  --accent-color: #2294ed;
-  --accent-color-dark: #1d69a3;
+  --accent-color: #061622;
+  --accent-color-dark: #b7c88a;
   --padding-inline-section: 20px;
 }
 
@@ -40,7 +40,7 @@ a {
 }
 
 .top-banner {
-  background-color: #4fb3d4;
+  background-color: #23b2e2;
   background-image: url("./assets/asset_32.png");
   background-size: 300px;
 }
@@ -94,7 +94,7 @@ ul {
 
 .primary-btn {
   background-color: var(--accent-color);
-  color: white !important;
+  color: rgb(6, 107, 179) !important;
   padding: 12px 24px;
   border-radius: 6px;
   font-weight: 700;
